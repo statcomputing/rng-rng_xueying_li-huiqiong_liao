@@ -129,7 +129,7 @@ legend(6,0.33,c("true density of g", "sample density"), col = c("black","red"),t
 ###(c)  
 
 $\sqrt{4+x}<2+\sqrt{x}$ for all $x>0$ because $(2+\sqrt{x})^2-(\sqrt{4+x})^2=4\cdot \sqrt{x}>0$.   
-Therefore, $\cfrac{f(x)}{g(x)}\leq1$, we choose $\alpha=1$.  
+Therefore, $\cfrac{f(x)}{g(x)}\leq1$, we choose $\alpha=\frac{1}{C}$.  
 
 **Step 1**: $u$ ~ $unif (0, 1)$  
 **Step 2**: find $x^*$, where $Cg(x)=u$  
